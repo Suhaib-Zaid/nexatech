@@ -56,3 +56,22 @@ git clone https://github.com/Suhaib-Zaid/nexatech.git
 cd nexatech
 npm install
 npm start
+
+
+## 📦 Deployment
+
+This project is deployed using **GitHub Pages** via `gh-pages`.
+
+## 🤝 Contributions
+
+Feel free to fork the repo and submit PRs if you'd like to suggest changes or add features!
+
+
+## 📄 License
+
+MIT License. Feel free to use it for educational or commercial use.
+
+
+## 👤 Author
+
+Made with 💻 by **[Suhaib Zaid](https://github.com/Suhaib-Zaid)**
